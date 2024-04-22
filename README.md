@@ -1,2 +1,1 @@
-# Airline-System
-Its a flight ticketing project
+# Airline-reservation-system-java
